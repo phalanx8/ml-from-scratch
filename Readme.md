@@ -2,7 +2,7 @@
 
 Why writing models from scratch in the first place? Because you don't know what you don't know!
 
-##Topics:
+## Topics:
 0. Naive-Bayes
 1. Linear Regression (Logistic is a form of it)
 2. K-Nearest-Neighbours
